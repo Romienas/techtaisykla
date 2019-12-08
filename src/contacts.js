@@ -12,7 +12,7 @@ class Contacts extends React.Component {
                             <div className={'contacts__blocks'}>
                                 <h3>Adresas</h3>
                                 <p>UAB Remonto technologijos <br/>
-                                Perkūnkiemo g. 33, Vilnius</p>
+                                Perkūnkiemio g. 33, Vilnius</p>
                             </div>
                             <div className={'contacts__blocks'}>
                                 <h3>Kontaktai</h3>

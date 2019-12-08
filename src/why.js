@@ -12,7 +12,7 @@ class Why extends React.Component {
                         <h3>Profesionalios technologijos</h3>
                         <p>Darbus atlieka aukštos kvalifikacijos ir ilgametę darbinę patirtį turintys
                             specialistai. Modernūs darbiniai instrumentai leidžia greitai ir tiksliai 
-                            atlikti diagnostiką ir sumažinti remonto kaštus Garantuojame kokybiškas 
+                            atlikti diagnostiką ir sumažinti remonto kaštus. Garantuojame kokybiškas 
                             paslaugas už optimalią kainą.</p>
                     </div>
                     <div>
