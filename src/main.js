@@ -5,6 +5,7 @@ import Header from './header';
 import Why from './why';
 import Contacts from './contacts';
 import Footer from './footer';
+import Map from './map';
 
 class Main extends Component {
     render() {
@@ -15,6 +16,7 @@ class Main extends Component {
                 <Services />
                 <Why />
                 <Contacts />
+                <Map />
                 <Footer />
             </div>
         )

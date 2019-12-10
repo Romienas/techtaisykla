@@ -447,3 +447,19 @@ li {
         justify-content: space-between;
     }
 }
+
+.map {
+    height: 600px;
+}
+
+.map__infobox {
+    background-color: red;
+}
+
+.MicrosoftMap .Infobox {
+    margin-top: -170px;
+}
+
+.MicrosoftMap .Infobox .infobox-stalk {
+    margin-top: 159px;
+}
