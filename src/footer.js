@@ -6,7 +6,7 @@ class Footer extends React.Component {
         return(
             <div className={'footer'}>
                 <div className={'container'}>
-                    <span>UAB Remonto technologijos</span>
+                    <span>&copy; Visos teisės saugomos. UAB Remonto technologijos</span>
                     <span><a href='https://webrom.lt'>Webrom</a></span>
                 </div>
             </div>
