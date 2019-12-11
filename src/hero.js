@@ -17,7 +17,7 @@ class Hero extends Component {
                             Sugedo kompiuterinė technika,  biuro įranga, ar kitas buities įrenginys?
                         </div>
                         <div className={'hero__text-small'}>
-                            Mūsų profesionalų komanda jums padės greitai ir kokybiškai
+                            Mūsų profesionalų komanda Jums padės greitai ir kokybiškai
                         </div>
                         <a className={'hero__button'} href='#kontaktai'>
                             Skambink mums dabar
