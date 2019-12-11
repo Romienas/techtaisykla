@@ -168,6 +168,10 @@ li {
     @media screen and (max-width: 684px) {
         top: 170px
     }
+
+    @media screen and (max-height: 375px) {
+        top: 100px
+    }
 }
 
 .hero__text-big {
@@ -195,6 +199,10 @@ li {
     font-size: 25px;
     margin-top: 150px;
     cursor: pointer;
+
+    @media screen and (max-height: 375px) {
+        margin-top: 30px;
+    }
 }
 
 .hero__button:hover {
@@ -300,6 +308,10 @@ li {
         height: 1200px;
         justify-content: center;
     }
+
+    @media screen and (max-height: 375px) {
+        height: 950px;
+    }
 }
 
 .why__title {
@@ -322,6 +334,10 @@ li {
             margin-left: 0;
             padding-top: 150px;
         }
+    }
+
+    @media screen and (max-width: 945px) {
+        font-size: 50px;
     }
 }
 
