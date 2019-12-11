@@ -6,6 +6,7 @@ import Why from './why';
 import Contacts from './contacts';
 import Footer from './footer';
 import Map from './map';
+import Cookie from './cookie';
 
 class Main extends Component {
     render() {
@@ -18,6 +19,7 @@ class Main extends Component {
                 <Contacts />
                 <Map />
                 <Footer />
+                <Cookie />
             </div>
         )
     }
